@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jackie Bot - Discord</title>
+    <style>
+        body { font-family: sans-serif; background-color: #0b0e14; color: white; margin: 0; text-align: center; }
+        header { background: linear-gradient(135deg, #1a2a6c, #b21f1f); padding: 40px 20px; }
+        .profile-img { width: 150px; height: 150px; border-radius: 50%; border: 4px solid white; }
+        .container { padding: 20px; }
+        .btn { display: inline-block; background: #5865F2; color: white; padding: 15px 30px; text-decoration: none; border-radius: 5px; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jackie Bot</h1>
+        <p>Asistente versátil para tus servidores</p>
+    </header>
+    <div class="container">
+        <h2>Comando Principal</h2>
+        <p><code>!crear [Corte] | Rol1, Rol2...</code></p>
+        <a href="#" class="btn">Invitar Bot</a>
+    </div>
+</body>
+</html>
